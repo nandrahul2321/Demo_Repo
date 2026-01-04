@@ -1,4 +1,4 @@
 # Demo_Repo
 This is my Demo Repository
 <br>
-Autor - Rahul Nand
+Author - Rahul Nand(Computer Science Engineer)
